@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: snata00
+Build-Jdk: 15
+Implementation-Title: spring-data-redis-demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-data-redis-demo
+Created-By: Maven Integration for Eclipse
+
